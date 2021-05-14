@@ -1,3 +1,4 @@
 sudo apt update
 sudo apt upgrade
-git clone 
+git clone https://github.com/dura51/positive-or-not-.git
+cd positive-or-not-
